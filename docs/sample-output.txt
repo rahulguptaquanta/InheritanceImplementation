@@ -1,0 +1,15 @@
+Name: Buddy, Age: 3
+Breed: Labrador
+Buddy says: Woof!
+
+Name: Luna, Age: 2
+Indoor pet: Yes
+Luna says: Meow!
+
+Name: Max, Age: 5
+Breed: German Shepherd
+Max says: Woof!
+
+Name: Milo, Age: 1
+Indoor pet: No
+Milo says: Meow!
